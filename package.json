@@ -1,0 +1,22 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "This is my first project with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "sayHello": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablonalonso/First-Project-With-Node.git"
+  },
+  "keywords": ["hello-world", "first-project"],
+  "author": "pabloalonnso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablonalonso/First-Project-With-Node/issues"
+  },
+  "homepage": "https://github.com/pablonalonso/First-Project-With-Node#readme"
+}
